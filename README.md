@@ -2,4 +2,4 @@
 
  🇧🇷 - Born in Cruzeiro-SP, Brazil
  
- 📖 - Developer
+ 📖 - Developer Back-End
